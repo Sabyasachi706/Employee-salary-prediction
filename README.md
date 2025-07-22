@@ -47,8 +47,6 @@ Untitled4.ipynb: Jupyter notebook containing the complete analysis, preprocessin
 best_model.pkl: Saved machine learning model ready for deployment or further analysis.
 
 🚀 Future Improvements
-Add data visualization for EDA and model insights
-
 Integrate feature importance interpretation
 
 Develop a full-fledged user interface or API for easier use
